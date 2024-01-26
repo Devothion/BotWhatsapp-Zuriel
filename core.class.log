@@ -1,0 +1,250 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '51968836275@s.whatsapp.net',
+    fromMe: false,
+    id: '65AA5AF971BF06A177943997F189EC32',
+    participant: undefined
+  },
+  messageTimestamp: 1689613252,
+  pushName: 'Kiara ✨',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Bueeeno, nunca se sabe',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Bueeeno, nunca se sabe',
+  from: '51968836275'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51976889429@s.whatsapp.net',
+    fromMe: false,
+    id: '81FE27FA5153C6100A06596D41B99250',
+    participant: undefined
+  },
+  messageTimestamp: 1689613263,
+  pushName: 'ELY',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola repason',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola repason',
+  from: '51976889429'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51968836275@s.whatsapp.net',
+    fromMe: false,
+    id: '09BC8F53DEAA9C234117D53FC7070CCD',
+    participant: undefined
+  },
+  messageTimestamp: 1689613276,
+  pushName: 'Kiara ✨',
+  broadcast: false,
+  message: Message {
+    conversation: 'Pero si su relación está bien así como amigos, pues normal creo yo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Pero si su relación está bien así como amigos, pues normal creo yo',
+  from: '51968836275'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51976889429@s.whatsapp.net',
+    fromMe: false,
+    id: 'E27138CD96691D8043D80AFBC8F77CB8',
+    participant: undefined
+  },
+  messageTimestamp: 1689613312,
+  pushName: 'ELY',
+  broadcast: false,
+  message: Message {
+    conversation: 'Empezar',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Empezar',
+  from: '51976889429'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51968836275@s.whatsapp.net',
+    fromMe: false,
+    id: '850B21415BAE08DC93F92DA55FF56D68',
+    participant: undefined
+  },
+  messageTimestamp: 1689613328,
+  pushName: 'Kiara ✨',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Pero por qué lo dices ?',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Pero por qué lo dices ?',
+  from: '51968836275'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51968836275@s.whatsapp.net',
+    fromMe: false,
+    id: 'B062AFED8EFF96EE7E81EE922BE1E6E6',
+    participant: undefined
+  },
+  messageTimestamp: 1689613341,
+  pushName: 'Kiara ✨',
+  broadcast: false,
+  message: Message {
+    conversation: 'Acaso ella te ha dicho eso ?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Acaso ella te ha dicho eso ?',
+  from: '51968836275'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51968836275@s.whatsapp.net',
+    fromMe: false,
+    id: 'EAD6F16F0810E0FC81C0890CCC062013',
+    participant: undefined
+  },
+  messageTimestamp: 1689613354,
+  pushName: 'Kiara ✨',
+  broadcast: false,
+  message: Message {
+    conversation: 'O has interpretado eso tal vez en su actuar ?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'O has interpretado eso tal vez en su actuar ?',
+  from: '51968836275'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51976889429@s.whatsapp.net',
+    fromMe: false,
+    id: '28B4C9C6F268B5AB49453682B77FD853',
+    participant: undefined
+  },
+  messageTimestamp: 1689613373,
+  pushName: 'ELY',
+  broadcast: false,
+  message: Message {
+    conversation: 'Continuar',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Continuar',
+  from: '51976889429'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51976889429@s.whatsapp.net',
+    fromMe: false,
+    id: '09BCE328FB8EEF34A7D2B9E722C5A37D',
+    participant: undefined
+  },
+  messageTimestamp: 1689613435,
+  pushName: 'ELY',
+  broadcast: false,
+  message: Message {
+    conversation: 'Catalogo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Catalogo',
+  from: '51976889429'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51976889429@s.whatsapp.net',
+    fromMe: false,
+    id: '1AAF6C0CDB30EA8C006B304B3E71BD83',
+    participant: undefined
+  },
+  messageTimestamp: 1689613439,
+  pushName: 'ELY',
+  broadcast: false,
+  message: Message {
+    conversation: 'Oferta',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Oferta',
+  from: '51976889429'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51976889429@s.whatsapp.net',
+    fromMe: false,
+    id: '8945A9B21BC2B8184638DFED7BB32FE1',
+    participant: undefined
+  },
+  messageTimestamp: 1689613513,
+  pushName: 'ELY',
+  broadcast: false,
+  message: Message {
+    conversation: 'Gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Gracias',
+  from: '51976889429'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51976889429@s.whatsapp.net',
+    fromMe: false,
+    id: '270FB598E5AE08ABA56A43400FB4507C',
+    participant: undefined
+  },
+  messageTimestamp: 1689613533,
+  pushName: 'ELY',
+  broadcast: false,
+  message: Message {
+    conversation: 'Adiós',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Adiós',
+  from: '51976889429'
+}
